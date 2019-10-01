@@ -2,6 +2,6 @@ iksuplorer
 
 iksuplorerssu
 
-Seokmin Yoo
+Seokmin Yoon
 
 
